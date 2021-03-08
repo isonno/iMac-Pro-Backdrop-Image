@@ -6,4 +6,4 @@ This is an "Inside out" backdrop image for your iMac Pro. It was made by using p
 
 The blue cast was added because seeing all the components on the screen was just to busy for day-to-day use.
 
-Unfortunately the Photoshop source file is too large to post to GitHub (65MB). I'll post a link when I can find another place to publicly park it.
+Unfortunately the Photoshop source file is too large to post to GitHub (65MB). It's [available on Creative Cloud](https://shared-assets.adobe.com/link/0b0be05b-f5a4-47db-6a93-1dfccbe14e4c) if you want to tweak the appearance.
